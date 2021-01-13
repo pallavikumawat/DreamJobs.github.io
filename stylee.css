@@ -1,0 +1,177 @@
+html{
+    height: 100%;
+}
+body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    
+}
+
+.button1 {
+  top: 64px;
+left: 1515px;
+width: 64px;
+height: 25px;
+text-align: center;
+font: normal normal normal 15px/24px Inter;
+letter-spacing: 0.4px;
+color: #0F47C0;
+border: 2px solid #0F47C0;
+border-radius: 32px;
+opacity: 1;
+}
+.button2{
+    top: 64px;
+left: 1515px;
+width: 90px;
+height: 25px;
+text-align: center;
+font: normal normal normal 15px/24px Inter;
+letter-spacing: 0.4px;
+color: #0F47C0;
+border: 2px solid #0F47C0;
+border-radius: 32px;
+opacity: 1;
+}
+.button3{
+    top: 691px;
+left: 192px;
+width: 114px;
+height: 25px;
+text-align: center;
+font: normal normal normal 20px/26px Inter;
+letter-spacing: 0.44px;
+color: #FFFFFF;
+background: #1C2333 0% 0% no-repeat padding-box;
+border-radius: 52px;
+opacity: 1;
+}
+.button4{
+    top: 2276px;
+left: 852px;
+width: 196px;
+height: 25px;
+text-align: center;
+font: normal normal normal 22px/26px Inter;
+letter-spacing: 0.44px;
+color: #FFFFFF;
+background: #1C2333 0% 0% no-repeat padding-box;
+border-radius: 52px;
+opacity: 1;
+}
+.button5{
+    top: 3185px;
+left: 300px;
+width: 136px;
+height: 25px;
+text-align: center;
+font: normal normal normal 22px/26px Inter;
+letter-spacing: 0.44px;
+color: #FFFFFF;
+background: #1C2333 0% 0% no-repeat padding-box;
+border-radius: 52px;
+opacity: 1;
+}
+.card1{
+    display: grid;
+    grid-template-columns: 300px;
+    grid-template-rows: 210px;
+    grid-template-areas: "image" "text";
+    font-family: Roboto;
+    border-radius: 18px;
+    background: #FFFFFF;
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.9);
+    text-align: center;
+    transition: 0.5s ease;
+    cursor:pointer;
+}
+.card1:hover{
+    transform: scale(1,2);
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.9);
+}
+.card2{
+    display: grid;
+    grid-template-columns: 300px;
+    grid-template-rows: 210px;
+    grid-template-areas: "image" "text";
+    font-family: Roboto;
+    border-radius: 18px;
+    background: #FFFFFF;
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.9);
+    text-align: center;
+    transition: 0.5s ease;
+    cursor:pointer;
+}
+.card2:hover{
+    transform: scale(1,2);
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.9);
+}
+.card3{
+    display: grid;
+    grid-template-columns: 300px;
+    grid-template-rows: 210px;
+    grid-template-areas: "image" "text";
+    font-family: Roboto;
+    border-radius: 18px;
+    background: #FFFFFF;
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.9);
+    text-align: center;
+    transition: 0.5s ease;
+    cursor:pointer;
+}
+.card3:hover{
+    transform: scale(1,2);
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.9);
+}
+.card4{
+    display: grid;
+    grid-template-columns: 300px;
+    grid-template-rows: 210px;
+    grid-template-areas: "image" "text";
+    font-family: Roboto;
+    border-radius: 18px;
+    background: #FFFFFF;
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.9);
+    text-align: center;
+    transition: 0.5s ease;
+    cursor:pointer;
+}
+.card4:hover{
+    transform: scale(1,2);
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.9);
+}
+.card5{
+    display: grid;
+    grid-template-columns: 300px;
+    grid-template-rows: 210px;
+    grid-template-areas: "image" "text";
+    font-family: Roboto;
+    border-radius: 18px;
+    background: #FFFFFF;
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.9);
+    text-align: center;
+    transition: 0.5s ease;
+    cursor:pointer;
+}
+.card5:hover{
+    transform: scale(1,2);
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.9);
+}
+.card6{
+    display: grid;
+    grid-template-columns: 300px;
+    grid-template-rows: 210px;
+    grid-template-areas: "image" "text";
+    font-family: Roboto;
+    border-radius: 18px;
+    background: #FFFFFF;
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.9);
+    text-align: center;
+    transition: 0.5s ease;
+    cursor:pointer;
+}
+.card6:hover{
+    transform: scale(1,2);
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.9);
+}
